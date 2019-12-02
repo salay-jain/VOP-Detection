@@ -1,6 +1,6 @@
 # VOP-Detection
 
-Vowel onset point (VOP):\\
+Vowel onset point (VOP):\
 
 Vowel Onset Point is the instant at which the beginning of a vowel takes place during
 speech production. A speech signal is composed of voiced signal, unvoiced signal and
@@ -15,6 +15,6 @@ Modulation components refer to the slowly varying temporal envelope components i
 speech. Temporal envelope of speech is dominated of low frequency components by
 several Hertz.\
 Thus, the onset of vowel may be manifested as a significant change in the modulation
-spectrum energy level in the 4–16 Hz band.\
+spectrum energy level in the 4–16 Hz band.
 
-So we have done Vowel onset point detection using modulation spectrum energy.\
+So we have done Vowel onset point detection using modulation spectrum energy.
