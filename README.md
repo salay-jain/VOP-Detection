@@ -1,6 +1,6 @@
 # VOP-Detection
 
-Vowel onset point (VOP):\
+Vowel onset point (VOP):
 
 Vowel Onset Point is the instant at which the beginning of a vowel takes place during
 speech production. A speech signal is composed of voiced signal, unvoiced signal and
